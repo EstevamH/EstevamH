@@ -15,7 +15,7 @@ Meu nome é Estevam Rodrigues, Desenvolvedor Front-End e estudante de Ciência d
 
 ## Conhecimentos | Knowledges
 
-### Frontend
+### Front-End
 ![Angular](https://img.shields.io/badge/-Angular-990000?style=flat-square&logo=angular)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000066?style=flat-square&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
