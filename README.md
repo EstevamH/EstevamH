@@ -3,7 +3,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/EstevamH)](https://github.com/EstevamH)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/estevamhlrodrigues/)](https://www.linkedin.com/in/estevamhlrodrigues/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:estevamlrodrigues@gmail.com)](mailto:estevamlrodrigues@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-black?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/estevaanrodrigues)](https://https://www.instagram.com/estevaanrodrigues/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-black?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/estevaanrodrigues)](https://www.instagram.com/estevaanrodrigues/)
 
 ## Olá! 👋
 
