@@ -29,7 +29,7 @@ Meu nome é Estevam Rodrigues, Desenvolvedor Front-End e estudante de Ciência d
 ### Design
 ![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
 ![Adobe Illustrator](http://img.shields.io/badge/-Abode%20Illustrator-FC8F30?style=flat-square&logo=adobe-illustrator&logoColor=ffffff)
-![Adobe XD](http://img.shields.io/badge/-Adobe%Xd-4e2e4f?style=flat-square&logo=adobe-xd&logoColor=ffffff)
+![Adobe XD](http://img.shields.io/badge/-Abode%20Xd-4e2e4f?style=flat-square&logo=adobe-xd&logoColor=ffffff)
 
 ### Others
 ![Git](https://img.shields.io/badge/-Git-000033?style=flat-square&logo=git)
