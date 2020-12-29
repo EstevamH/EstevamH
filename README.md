@@ -35,3 +35,8 @@ Meu nome é Estevam Rodrigues, Desenvolvedor Front-End e estudante de Ciência d
 ![Git](https://img.shields.io/badge/-Git-000033?style=flat-square&logo=git)
 ![GitLab](https://img.shields.io/badge/-GitLab-000033?style=flat-square&logo=gitlab)
 ![Docker](https://img.shields.io/badge/-Docker-000033?style=flat-square&logo=docker)
+
+### About
+<p> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estevamH&show_icons=true&layout=compact&theme=radical" />
+</p>
