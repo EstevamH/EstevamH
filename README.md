@@ -5,13 +5,13 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:estevamlrodrigues@gmail.com)](mailto:estevamlrodrigues@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-black?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/estevaanrodrigues)](https://www.instagram.com/estevaanrodrigues/)
 
-## Olá! 👋
+## Hi!
 
-Meu nome é Estevam Rodrigues, Desenvolvedor Front-End e estudante de Ciência da Computação .
+My name is Estevam Rodrigues, Front-End Developer and a Computer Science student. .
 
-- Desenvolvedor Front-End no **Instituto Transire**
-- Techs: Angular, TypeScript, JavaScript, React.js entre outras.
-- :books: Estudando CI/CD com Jenkins, Docker; Node.js e React Native
+- Front-End Developer at **Instituto Transire**
+- Techs: Angular, TypeScript, JavaScript, React.js, Node.js.
+- Studying: CI/CD with Jenkins, Docker;
 
 ## Conhecimentos | Knowledges
 
