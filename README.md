@@ -39,4 +39,5 @@ My name is Estevam Rodrigues, Front-End Developer and a Computer Science student
 ### About
 <p> 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estevamH&show_icons=true&layout=compact&theme=radical" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EstevamH&theme=github_dark" />
 </p>
