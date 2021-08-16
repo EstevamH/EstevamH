@@ -5,11 +5,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:estevamlrodrigues@gmail.com)](mailto:estevamlrodrigues@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-black?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/estevaanrodrigues)](https://www.instagram.com/estevaanrodrigues/)
 
-## Hi!
+Front-End Developer and a Computer Science student. .
 
-My name is Estevam Rodrigues, Front-End Developer and a Computer Science student. .
-
-- Front-End Developer at **Instituto Transire**
+- Front-End Developer at **Zup Innovation**
 - Techs: Angular, TypeScript, JavaScript, React.js, Node.js.
 - Studying: CI/CD with Jenkins, Docker;
 
