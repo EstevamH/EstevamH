@@ -9,7 +9,6 @@ Front-End Developer and a Computer Science student. .
 
 - Front-End Developer at **Zup Innovation**
 - Techs: Angular, TypeScript, JavaScript, React.js, Node.js.
-- Studying: CI/CD with Jenkins, Docker;
 
 ## Conhecimentos | Knowledges
 
